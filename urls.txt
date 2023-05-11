@@ -1,3 +1,7 @@
 [URL01]: https://github.com/nmkhoa9898/cdond-c3-projectstarter
 
 [URL02]: http://udapeople-27f02c3.s3-website-us-east-1.amazonaws.com/#/employees
+
+[URL03]: https://d1dnusb6usljbj.cloudfront.net/#/employees
+
+[URL04]: http://54.152.127.221:3030/api/status
