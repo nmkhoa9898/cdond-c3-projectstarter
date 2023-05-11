@@ -1,4 +1,5 @@
-**CIRCLECI BUILD STATUS
+##CIRCLECI BUILD STATUS
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/nmkhoa9898/cdond-c3-projectstarter/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/nmkhoa9898/cdond-c3-projectstarter/tree/master)
 
 ## Give your Application Auto-Deploy Superpowers
