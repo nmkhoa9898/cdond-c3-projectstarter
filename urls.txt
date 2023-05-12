@@ -1,5 +1,7 @@
 [URL01]: https://github.com/nmkhoa9898/cdond-c3-projectstarter
 
-[URL02]: http://udapeople-27f02c3.s3-website-us-east-1.amazonaws.com/#/employees
+// This is the latest build, the URL02 on master branch is several commits behind.
+// Committing changes in this file will cause the pipeline to run and build a new workflow.
+[URL02]: http://udapeople-1d7c595.s3-website-us-east-1.amazonaws.com/#/employees
 
 [URL03]: https://d1dnusb6usljbj.cloudfront.net/#/employees
